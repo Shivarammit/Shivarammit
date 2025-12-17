@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Shivaram Madankumar**
+# 👋 Hi, I'm **Shivaram M**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Cloud+Developer;Ex-Barclays+Technology+Intern;AI+%7C+Blockchain+%7C+Systems+Enthusiast" />
@@ -12,7 +12,6 @@
 - ⚙️ Strong foundation in **Data Structures, OS, Networks & OOP**
 - ☁️ Hands-on with **Azure & AWS**
 - 🧠 Exploring **Machine Learning, Blockchain & System Design**
-- 🎯 Actively applying to **Microsoft, Cisco, Qualcomm, Oracle**
 
 ---
 
@@ -67,6 +66,8 @@
   <img src="https://img.shields.io/badge/Operating%20Systems-%23232F3E.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Networks-%2300ADD8.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DBMS-%23E34F26.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures-%23E34F26.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-%23E34F26.svg?style=for-the-badge" />
 </p>
 
 ---
@@ -84,11 +85,11 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shivaram-m-57a12b292/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  <a href="mailto:shivaramcvm@yahoo.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yahoo" />
   </a>
 </p>
 
