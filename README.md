@@ -29,12 +29,12 @@
 
 ### Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,FastAPI" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,gitlab,github,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,gitlab,github,docker" />
 </p>
 
 ### Cloud & DevOps
