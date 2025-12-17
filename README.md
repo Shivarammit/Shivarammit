@@ -1,63 +1,77 @@
-<h1 align="center">
-  Hi 👋, I'm Shivaram
-</h1>
-
-<h3 align="center">Software Engineer | Cloud | Full Stack | Banking Tech</h3>
+# 👋 Hi, I'm **Shivaram Madankumar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Barclays+Intern;Cloud+%26+Backend+Developer;Always+Learning+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Cloud+Developer;Ex-Barclays+Technology+Intern;AI+%7C+Blockchain+%7C+Systems+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 Computer Science Graduate  
-- 💼 Former **Barclays Technology Intern (2 months)**
-- 💻 Interested in **Backend, Cloud, Distributed Systems**
-- 🏦 Experience in **Banking & Financial Services Tech**
-- 🌱 Currently learning **System Design & Cloud**
+- 🎓 Computer Science graduate passionate about **backend, cloud & distributed systems**
+- 💼 **Former Technology Intern @ Barclays**
+- ⚙️ Strong foundation in **Data Structures, OS, Networks & OOP**
+- ☁️ Hands-on with **Azure & AWS**
+- 🧠 Exploring **Machine Learning, Blockchain & System Design**
+- 🎯 Actively applying to **Microsoft, Cisco, Qualcomm, Oracle**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,gitlab,github,docker" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux" />
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js&perline=6" />
 </p>
 
 ---
 
-## 📌 Experience
+### ⚙️ Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi&perline=6" />
+</p>
 
-### 🏦 Barclays – Technology Intern
-**Duration:** 2 Months  
+---
 
-- Worked on enterprise-grade banking applications  
-- Hands-on experience with **Java, Backend APIs, Databases**
-- Exposure to **Agile, SDLC, CI/CD**
-- Collaborated with cross-functional teams
+### 🧠 Machine Learning & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge" />
+</p>
+
+---
+
+### ⛓️ Blockchain
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=6" />
+</p>
+
+---
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,docker&perline=6" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux&perline=6" />
+</p>
+
+---
+
+### 🧠 Core CS Fundamentals
+<p align="center">
+  <img src="https://img.shields.io/badge/Operating%20Systems-%23232F3E.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-%2300ADD8.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-%23E34F26.svg?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivarammit&show_icons=true&theme=tokyonight" />
 </p>
@@ -68,27 +82,16 @@
 
 ---
 
-## 🏆 Achievements & Interests
-
-- 💡 Strong in **DSA, OOPs, Problem Solving**
-- ☁ Interested in **Cloud Infrastructure & Networking**
-- 🤝 Team player with real-world industry exposure
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/shivaram-m-57a12b292/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/Shivarammit">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
+## 📫 Connect With Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
+---
+
+⭐ *"Building scalable systems, one line of code at a time."*
