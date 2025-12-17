@@ -40,13 +40,6 @@
 
 ---
 
-### ⛓️ Blockchain
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=6" />
-</p>
-
----
-
 ### 🗄️ Databases & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,docker&perline=6" />
@@ -68,6 +61,7 @@
   <img src="https://img.shields.io/badge/DBMS-%23E34F26.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Structures-%23E34F26.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Algorithms-%23E34F26.svg?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=6" />
 </p>
 
 ---
