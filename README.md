@@ -17,7 +17,6 @@
 - 💻 Interested in **Backend, Cloud, Distributed Systems**
 - 🏦 Experience in **Banking & Financial Services Tech**
 - 🌱 Currently learning **System Design & Cloud**
-- 🎯 Targeting **Microsoft | Cisco | Qualcomm | Oracle | JPMorgan**
 
 ---
 
@@ -25,17 +24,17 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
 ### Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,FastAPI" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,gitlab,github,docker" />
 </p>
 
 ### Cloud & DevOps
@@ -80,7 +79,7 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shivaram-m-57a12b292/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/Shivarammit">
