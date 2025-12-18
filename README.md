@@ -31,7 +31,7 @@
 
 ---
 
-### 🧠 AI & BLOCKCHAIN
+### 🧠 AI
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge" />
