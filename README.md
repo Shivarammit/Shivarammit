@@ -33,7 +33,7 @@
 
 ### 🧠 AI/ML & BLOCKCHAIN
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,solidity&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,solidity&perline=6" />
 </p>
 
 ---
