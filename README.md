@@ -26,7 +26,7 @@
 
 ### ⚙️ Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi,react,angular&perline=6" />
 </p>
 
 ---
