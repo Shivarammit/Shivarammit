@@ -24,7 +24,7 @@
 
 ---
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Web Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi,react,angular&perline=6" />
 </p>
