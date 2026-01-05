@@ -40,14 +40,14 @@
 
 ### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux&perline=6" />
 </p>
 
 ---
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,gitlab,bitbucket&perline=6" />
 </p>
 
 ---
