@@ -47,7 +47,7 @@
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,gitlab,bitbucket&perline=6" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker&perline=6" />
 </p>
 
 ---
