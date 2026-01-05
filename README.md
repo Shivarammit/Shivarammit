@@ -19,7 +19,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,php&perline=6" />
 </p>
 
 ---
