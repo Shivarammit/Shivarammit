@@ -26,7 +26,7 @@
 
 ### ⚙️ Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi,react,angular&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi,react,angular,xampp&perline=6" />
 </p>
 
 ---
