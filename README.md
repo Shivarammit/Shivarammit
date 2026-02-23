@@ -40,7 +40,7 @@
 
 ### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,linux,git,github,gitlab,bitbucket&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux,git,github,gitlab,bitbucket,swagger&perline=6" />
 </p>
 
 ---
