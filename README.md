@@ -132,7 +132,7 @@
 
 ### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,linux,git,github,gitlab,bitbucket,postman,swagger&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux,git,github,gitlab,bitbucket,postman,swagger&perline=6" />
 </p>
 
 ---
